@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="gwt-boot-sample-basic-with-spring-boot:GWT">
+    <output-path>$PROJECT_DIR$/target/classes/public</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="gwt-boot-sample-basic-with-spring-boot/gwt/GWT" />
+    </root>
+  </artifact>
+</component>

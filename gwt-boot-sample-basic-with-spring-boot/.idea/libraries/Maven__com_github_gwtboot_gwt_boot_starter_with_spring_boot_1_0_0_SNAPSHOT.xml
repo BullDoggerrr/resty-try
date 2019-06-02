@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.gwtboot:gwt-boot-starter-with-spring-boot:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/gwtboot/gwt-boot-starter-with-spring-boot/1.0.0-SNAPSHOT/gwt-boot-starter-with-spring-boot-1.0.0-20180815.183141-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/gwtboot/gwt-boot-starter-with-spring-boot/1.0.0-SNAPSHOT/gwt-boot-starter-with-spring-boot-1.0.0-20180815.183141-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/gwtboot/gwt-boot-starter-with-spring-boot/1.0.0-SNAPSHOT/gwt-boot-starter-with-spring-boot-1.0.0-20180815.183141-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

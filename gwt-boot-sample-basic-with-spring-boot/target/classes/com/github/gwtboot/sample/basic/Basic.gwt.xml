@@ -1,0 +1,8 @@
+<module rename-to="basic">
+  <inherits name="com.github.gwtboot.starter.StarterWithSpringBoot"/>
+  <inherits name="org.fusesource.restygwt.RestyGWT"/>
+  <entry-point class="com.github.gwtboot.sample.basic.client.BasicGwtEntryPoint"/>
+  <source path="client"/>
+  <source path="shared"/>
+  <super-source path="super"/>
+</module>

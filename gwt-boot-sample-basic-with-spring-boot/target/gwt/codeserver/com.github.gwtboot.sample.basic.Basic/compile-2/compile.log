@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module com.github.gwtboot.sample.basic.Basic
+   Unification traversed 692 fields and methods and 341 types. 4 are considered part of the current module and 12 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 4 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 7,116s
+Linking into C:\Users\potap\IdeaProjects\gwt-boot-samples\gwt-boot-sample-basic-with-spring-boot\target\gwt\codeserver\com.github.gwtboot.sample.basic.Basic\compile-2\war\basic; Writing extras to C:\Users\potap\IdeaProjects\gwt-boot-samples\gwt-boot-sample-basic-with-spring-boot\target\gwt\codeserver\com.github.gwtboot.sample.basic.Basic\compile-2\extras\basic
+   Link succeeded
+   Linking succeeded -- 1,506s
+9,867s total -- Compile completed
